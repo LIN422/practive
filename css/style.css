@@ -232,6 +232,10 @@
     padding-left: 97px;
     margin-bottom:64px
 }
+.container .list-right ul{
+    padding-left: 0px;
+}
+
 .container .list-right{
     padding-right: 97px;
     margin-bottom:64px;
